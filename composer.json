@@ -1,0 +1,8 @@
+{
+ "name": "teamrubiconusa/pym",
+ "type": "wordpress-plugin",
+ "repositories": [{
+   "type": "vcs",
+   "url": "git@github.com:teamrubiconusa/pym.git"
+ }]
+}
